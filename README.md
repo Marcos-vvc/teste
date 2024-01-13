@@ -15,11 +15,6 @@ Nesse desafio, foi desenvolvido uma aplicação de controle de tarefas no estilo
 - Propriedades
 - Componentização
 
-## Telas:
-
-![Todo - Empty](https://github.com/Marcos-vvc/todoList/assets/98921788/8a52719a-2b0a-470a-92e0-84fec600a458)
-![Todo](https://github.com/Marcos-vvc/todoList/assets/98921788/433ddc0b-ed47-4264-8403-75aab8611179)
-
 
 ## Site Vercel:
 [![My Skills](https://skillicons.dev/icons?i=vercel)](https://todo-list-gamma-puce.vercel.app) 
@@ -31,7 +26,7 @@ Nesse desafio, foi desenvolvido uma aplicação de controle de tarefas no estilo
 -   Acessar primeiro o diretório com o comando:
 
 ```bash
-cd todoList
+cd teste
 ```
 -   Instalar as dependências da aplicação:
 
